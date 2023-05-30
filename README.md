@@ -3,7 +3,7 @@ This Python code provides an integration between Streamlabs and Discord, allowin
 
 ### Getting Started
 1. Clone this repository to your local machine.
-2. Install the required packages: pip install requests websocket-client discord.py
+2. Install the required packages: `pip install requests websocket-client discord.py`
 3. Replace the streamlabsSocketToken, discordToken, and channelID variables with your own Streamlabs socket API key, Discord bot token, and Discord channel ID, respectively.
 4. Run the script with the command: python dc.py
 
